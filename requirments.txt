@@ -1,6 +1,6 @@
 streamlit
 pymupdf
-spacy
+spaCy
 scikit-learn
 regex
 pandas
