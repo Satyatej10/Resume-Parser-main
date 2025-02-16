@@ -1,4 +1,3 @@
-pip install spacy
 
 import re
 import json
