@@ -1,3 +1,4 @@
 #!/bin/bash
-# Install the spaCy model en_core_web_sm
+# Install spaCy and the en_core_web_sm model
+pip install spacy
 python -m spacy download en_core_web_sm
